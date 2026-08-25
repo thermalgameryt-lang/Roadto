@@ -1,0 +1,13 @@
+
+{
+  "name": "Road to the Eight",
+  "short_name": "Road to 8",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1A22",
+  "theme_color": "#0B1A22",
+  "description": "Rowing training logbook and season prep tracker.",
+  "icons": [
+    {"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
